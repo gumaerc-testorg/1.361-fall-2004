@@ -6,6 +6,7 @@ file: /courses/1-361-advanced-soil-mechanics-fall-2004/dfc44a58a055fbf600c32e052
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part_iv_5.pdf
 uid: dfc44a58-a055-fbf6-00c3-2e052a10ed02
 ---
 Handwritten notes from the lecture covering cohesionless soil, cohesive soil, and cohesive active.
-

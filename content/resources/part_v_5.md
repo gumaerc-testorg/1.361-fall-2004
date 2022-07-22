@@ -6,6 +6,7 @@ file: /courses/1-361-advanced-soil-mechanics-fall-2004/9487fb1712f0effee8718366b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part_v_5.pdf
 uid: 9487fb17-12f0-effe-e871-8366b7873d80
 ---
 Handwritten notes from the lecture covering Settlement Analyses of saturated cohesive soils.
-

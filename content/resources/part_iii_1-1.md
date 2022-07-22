@@ -5,6 +5,7 @@ file: /courses/1-361-advanced-soil-mechanics-fall-2004/11fe01a892031cbf5ff43797b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: part_iii_1.pdf
 uid: 11fe01a8-9203-1cbf-5ff4-3797b1607a6d
 ---
 Handwritten notes from the lecture covering Dry Soil stresses.
-

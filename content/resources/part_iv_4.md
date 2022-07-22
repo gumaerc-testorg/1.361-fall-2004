@@ -6,6 +6,7 @@ file: /courses/1-361-advanced-soil-mechanics-fall-2004/f0fb17e05664f2c301ba94d1f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part_iv_4.pdf
 uid: f0fb17e0-5664-f2c3-01ba-94d1fdd9316d
 ---
 Handwritten notes from the lecture covering Stress-Strain-Strength Behavior of Saturated Clays for drained conditions.
-

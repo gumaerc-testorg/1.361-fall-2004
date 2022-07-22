@@ -6,6 +6,7 @@ file: /courses/1-361-advanced-soil-mechanics-fall-2004/d2cf86e8d86ea3a5a51349adf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part_iii_4.pdf
 uid: d2cf86e8-d86e-a3a5-a513-49adfec58140
 ---
 Handwritten notes from the lecture covering Shallow Foundations on sand, bearing capacity.
-

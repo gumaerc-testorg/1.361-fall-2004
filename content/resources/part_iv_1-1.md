@@ -6,6 +6,7 @@ file: /courses/1-361-advanced-soil-mechanics-fall-2004/62df8b4deaaacad60cd76c03e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part_iv_1.pdf
 uid: 62df8b4d-eaaa-cad6-0cd7-6c03ee219e68
 ---
 Handwritten notes from the lecture covering soil with water, no flow or steady flow.
-

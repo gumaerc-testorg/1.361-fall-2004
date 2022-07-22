@@ -5,6 +5,7 @@ file: /courses/1-361-advanced-soil-mechanics-fall-2004/87d4144a4d001e4496716fa85
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: part_iv_2a.pdf
 uid: 87d4144a-4d00-1e44-9671-6fa8590a2636
 ---
 Handwritten notes from the lecture covering how to interpret flow nets.
-

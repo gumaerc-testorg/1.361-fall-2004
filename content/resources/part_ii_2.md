@@ -4,6 +4,7 @@ description: ''
 file: /courses/1-361-advanced-soil-mechanics-fall-2004/18875a66c7a81ac6dffb60862ddd3a1f_part_ii_2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: part_ii_2.pdf
