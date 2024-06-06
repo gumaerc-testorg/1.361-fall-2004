@@ -3,6 +3,7 @@ content_type: resource
 description: Handwritten notes from the lecture covering Terzaghi Theory and secondary
   compression.
 file: /courses/1-361-advanced-soil-mechanics-fall-2004/2ee5ae7acc646a33bc0275206a3d1bff_part_v_2.pdf
+file_size: 1017899
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
