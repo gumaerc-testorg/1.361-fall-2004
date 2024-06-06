@@ -3,6 +3,7 @@ content_type: resource
 description: Handwritten notes from the lecture covering cohesionless soil, cohesive
   soil, and cohesive active.
 file: /courses/1-361-advanced-soil-mechanics-fall-2004/dfc44a58a055fbf600c32e052a10ed02_part_iv_5.pdf
+file_size: 522769
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

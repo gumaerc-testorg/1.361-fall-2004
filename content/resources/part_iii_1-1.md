@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten notes from the lecture covering Dry Soil stresses.
 file: /courses/1-361-advanced-soil-mechanics-fall-2004/11fe01a892031cbf5ff43797b1607a6d_part_iii_1.pdf
+file_size: 383143
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
