@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from the lecture covering Stress-Strain-Strength Behavior
   of Saturated Clays for drained conditions.
-file: /courses/1-361-advanced-soil-mechanics-fall-2004/f0fb17e05664f2c301ba94d1fdd9316d_part_iv_4.pdf
+file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/f0fb17e05664f2c301ba94d1fdd9316d_part_iv_4.pdf
 file_size: 2520081
 file_type: application/pdf
 learning_resource_types:
