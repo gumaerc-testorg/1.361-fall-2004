@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from the lecture covering Coefficient of Permeability
   and Hydraulic Conductivity.
-file: /courses/1-361-advanced-soil-mechanics-fall-2004/29c0857386cb5ca7895d9679c9bb7b34_part_iv_3.pdf
+file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/29c0857386cb5ca7895d9679c9bb7b34_part_iv_3.pdf
 file_size: 326243
 file_type: application/pdf
 learning_resource_types:
