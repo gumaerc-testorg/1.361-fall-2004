@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from the lecture covering slope stability drained case.
-file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/a1586eb80e4faccc173e8d3432319b37_part_iv_6.pdf
+file: /courses/1-361-advanced-soil-mechanics-fall-2004/a1586eb80e4faccc173e8d3432319b37_part_iv_6.pdf
 file_size: 907277
 file_type: application/pdf
 learning_resource_types:

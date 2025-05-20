@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from the lecture covering soil structure and environmental
   effects.
-file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/8938132cdc8b88f8c8c1bb4ca8bfcda4_part_ii_2.pdf
+file: /courses/1-361-advanced-soil-mechanics-fall-2004/8938132cdc8b88f8c8c1bb4ca8bfcda4_part_ii_2.pdf
 file_size: 888539
 file_type: application/pdf
 learning_resource_types:
