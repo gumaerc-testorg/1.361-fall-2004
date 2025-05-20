@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a collection of graphs associated with the lecture.
-file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/1155830f0cd4b97e143bb70f71e1ebe3_part_iv_3a.pdf
+file: /courses/1-361-advanced-soil-mechanics-fall-2004/1155830f0cd4b97e143bb70f71e1ebe3_part_iv_3a.pdf
 file_size: 2078101
 file_type: application/pdf
 learning_resource_types:

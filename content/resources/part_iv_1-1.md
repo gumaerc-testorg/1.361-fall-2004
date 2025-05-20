@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from the lecture covering soil with water, no flow
   or steady flow.
-file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/62df8b4deaaacad60cd76c03ee219e68_part_iv_1.pdf
+file: /courses/1-361-advanced-soil-mechanics-fall-2004/62df8b4deaaacad60cd76c03ee219e68_part_iv_1.pdf
 file_size: 484531
 file_type: application/pdf
 learning_resource_types:

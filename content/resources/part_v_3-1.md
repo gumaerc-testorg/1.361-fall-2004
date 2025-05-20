@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten notes from the lecture covering stability evaluation of cohesive
   soils.
-file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/188e55f91b37cff28040cb6f10017a32_part_v_3.pdf
+file: /courses/1-361-advanced-soil-mechanics-fall-2004/188e55f91b37cff28040cb6f10017a32_part_v_3.pdf
 file_size: 637889
 file_type: application/pdf
 learning_resource_types:
