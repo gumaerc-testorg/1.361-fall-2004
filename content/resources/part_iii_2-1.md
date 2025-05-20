@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from the lecture covering Stress-Strain-Strength properties.
-file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/08462ec54c026c26854d5aab036ccdc4_part_iii_2.pdf
+file: /courses/1-361-advanced-soil-mechanics-fall-2004/08462ec54c026c26854d5aab036ccdc4_part_iii_2.pdf
 file_size: 1054523
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from the lecture covering SHANSEP design method.
-file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/e698cb9a9b583b92e1d4b07354711e54_part_v_4.pdf
+file: /courses/1-361-advanced-soil-mechanics-fall-2004/e698cb9a9b583b92e1d4b07354711e54_part_v_4.pdf
 file_size: 2081278
 file_type: application/pdf
 learning_resource_types:
