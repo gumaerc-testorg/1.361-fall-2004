@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from the lecture covering how to interpret flow nets.
-file: /courses/1-361-advanced-soil-mechanics-fall-2004/87d4144a4d001e4496716fa8590a2636_part_iv_2a.pdf
+file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/87d4144a4d001e4496716fa8590a2636_part_iv_2a.pdf
 file_size: 767306
 file_type: application/pdf
 learning_resource_types:
