@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-361-advanced-soil-mechanics-fall-2004/aee43e8558a7191e37b619a9d8b4a8c0_part_iii_2.pdf
+file: /ol-ocw-studio-app/courses/1-361-advanced-soil-mechanics-fall-2004/aee43e8558a7191e37b619a9d8b4a8c0_part_iii_2.pdf
 file_size: 1054523
 file_type: application/pdf
 learning_resource_types: []
